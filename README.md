@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sgtsamurai
 - 👀 I’m interested in Video Games
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me Andrewstout92@gmail.com
 
